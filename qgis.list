@@ -1,2 +1,2 @@
-deb     http://qgis.org/debian xenial main
-deb-src http://qgis.org/debian xenial main
+deb     http://qgis.org/debian artful main
+deb-src http://qgis.org/debian artful main
